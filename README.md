@@ -1,4 +1,4 @@
-# an-experimental-object
+# test specimen
 고대신룡:코링~ 
 
 코링:왜? 
